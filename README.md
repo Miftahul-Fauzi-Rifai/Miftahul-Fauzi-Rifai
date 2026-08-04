@@ -33,16 +33,6 @@ Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikp
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Selected Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Compliance Excellence Program** | Compliance management system | Laravel 11, Vue 3 |
-| **DMS Portal PLN** | Serverless document management system integrating Google Drive storage | Vue 3, Firebase, Google Drive API |
-| **QR Asset Track** | QR-code based asset tracking system | Laravel |
-| **InstaManip** | Exemplar-conditioned fashion image manipulation (deep learning coursework) | Python, PyTorch |
-| **Mangrove Detection** | YOLOv8n applied to satellite imagery of Balikpapan Bay for mangrove detection (published research) | Python, YOLOv8, Google Earth Engine |
-
 ## Contact
 
 - GitHub: [Miftahul-Fauzi-Rifai](https://github.com/Miftahul-Fauzi-Rifai)
