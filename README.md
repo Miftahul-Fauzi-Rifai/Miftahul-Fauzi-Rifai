@@ -2,16 +2,16 @@
 
 **Informatics Student | Full-Stack Developer | Deep Learning Enthusiast**
 
-Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikpapan. Currently completing an internship (Kerja Praktik) at PT PLN UID Kaltimra, K3 Umum Division, contributing to internal digital systems. Focused on full-stack web development, applied deep learning, and creative coding.
+Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikpapan. Currently completing an internship (Kerja Praktik) at PT PLN UID Kaltimra, contributing to internal digital systems. Focused on full-stack web development, applied deep learning, and creative coding.
 
 ---
 
 ## About
 
 - Building full-stack web applications with Laravel and Vue 3 for enterprise/internal use cases (compliance management, document management, asset tracking)
-- Applying deep learning to computer vision problems (image manipulation, object detection)
+- Applying deep learning to computer vision and predictive modeling problems (image manipulation, object detection, time-series forecasting)
 - Exploring creative coding, including real-time computer vision effects and AI-generated video
-- Working with containerized, service-based architectures using Docker
+- Working with containerized environments using Docker
 
 ## Tech Stack
 
@@ -29,6 +29,7 @@ Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikp
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Selected Projects
@@ -43,6 +44,5 @@ Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikp
 
 ## Contact
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- Email: your-email@example.com
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [Miftahul-Fauzi-Rifai](https://github.com/Miftahul-Fauzi-Rifai)
+- Email: mfrifai1311@gmail.com
