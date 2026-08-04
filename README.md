@@ -37,9 +37,9 @@ Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikp
 
 | Project | Description | Stack |
 |---|---|---|
-| **Compliance Excellence Program** | Compliance management system for PLN UID Kaltimra, aligned with ISO 37301:2021 | Laravel 11, Vue 3 |
+| **Compliance Excellence Program** | Compliance management system | Laravel 11, Vue 3 |
 | **DMS Portal PLN** | Serverless document management system integrating Google Drive storage | Vue 3, Firebase, Google Drive API |
-| **QR Asset Track** | QR-code based asset tracking system for the K3 division | Laravel |
+| **QR Asset Track** | QR-code based asset tracking system | Laravel |
 | **InstaManip** | Exemplar-conditioned fashion image manipulation (deep learning coursework) | Python, PyTorch |
 | **Mangrove Detection** | YOLOv8n applied to satellite imagery of Balikpapan Bay for mangrove detection (published research) | Python, YOLOv8, Google Earth Engine |
 
