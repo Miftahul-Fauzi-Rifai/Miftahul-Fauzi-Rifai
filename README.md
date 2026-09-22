@@ -6,13 +6,6 @@ Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikp
 
 ---
 
-## About
-
-- Building full-stack web applications with Laravel and Vue 3 for enterprise/internal use cases (compliance management, document management, asset tracking)
-- Applying deep learning to computer vision and predictive modeling problems (image manipulation, object detection, time-series forecasting)
-- Exploring creative coding, including real-time computer vision effects and AI-generated video
-- Working with containerized environments using Docker
-
 ## Tech Stack
 
 **Languages & Frameworks**
