@@ -2,7 +2,7 @@
 
 **Informatics Student | Full-Stack Developer | Deep Learning Enthusiast**
 
-Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikpapan. Currently completing an internship (Kerja Praktik) at PT PLN UID Kaltimra, contributing to internal digital systems. Focused on full-stack web development, applied deep learning, and creative coding.
+Undergraduate Informatics student at Institut Teknologi Kalimantan (ITK), Balikpapan, with internship experience at PT PLN UID Kaltimra contributing to internal digital systems. Focused on full-stack web development, applied deep learning, and creative coding.
 
 ---
 
